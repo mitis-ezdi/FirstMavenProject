@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hii This is the change from Github to check the synchronization.." );
+        System.out.println( "Hii This is the change from Github to check the synchronization..part 2..." );
     }
 }
